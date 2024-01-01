@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@huggingface/inference": "^2.6.4",
+    "dotenv": "^16.3.1"
+  },
+  "name": "testing-happyface",
+  "version": "1.0.0",
+  "main": "huggingface.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
